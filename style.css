@@ -1,0 +1,12 @@
+.post-cover {
+    max-width: 800px;
+    width: 80%;
+}
+
+.post {
+    margin: 0 auto;
+}
+
+.index-content {
+    margin-top: 0;
+}

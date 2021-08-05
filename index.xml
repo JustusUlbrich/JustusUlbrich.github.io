@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hi, I'm Justus Ulbrich on Justus Ulbrich</title><link>/</link><description>Recent content in Hi, I'm Justus Ulbrich on Justus Ulbrich</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Leuchtknoten</title><link>/projects/leuchtknoten/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>/projects/leuchtknoten/</guid><description/><content/></item><item><title>Wordclock</title><link>/projects/wordclock/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/projects/wordclock/</guid><description/><content/></item><item><title>Curriculum Vitae</title><link>/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/cv/</guid><description>Employment History IT Frankfurt GmbH | Senior Consultant, Full Stack Developer
+January 2021 – September 2021
+Die IT Frankfurt GmbH bietet individuelle Softwarelösungen mit praxisorientierter Beratung
+Aufgaben
+Weiterentwicklung der internen „Enterprise Architecture Plattform“ einer Großbank Beratung zu Architekturentscheidungen und Umsetzung Betreuung und Einarbeitung neuer Mitarbeiter und Werksstudenten Technologien
+Backend: Java, Spring Boot, Maven, Liquibase, JUnit Frontend: React, Javascript / Typescript, Jest, Html5 Sonstiges: Json, Rest, MySql, Git Tools: Figma, Bitbucket, Jira, Confluence, VSCode, IntelliJ ZweiAcht GmbH | Co-Founder, CTO, Senior Full Stack Developer
+Mai 2018 – September 2021</description><content>&lt;blockquote>
+&lt;h2 id="employment-history">Employment History&lt;/h2>
+&lt;/blockquote>
+&lt;!-- raw HTML omitted -->
+&lt;h3 id="it-frankfurt-gmbh--senior-consultant-full-stack-developer">IT Frankfurt GmbH | Senior Consultant, Full Stack Developer&lt;/h3>
+&lt;p>
+&lt;img src="/img/ITF_logo.svg" alt="Logo ITF" class="left" style="background: white; height: 5em; margin: 1em 0;" />
+&lt;strong>January 2021 – September 2021&lt;/strong>&lt;/p>
+&lt;p>Die IT Frankfurt GmbH bietet individuelle Softwarelösungen mit praxisorientierter Beratung&lt;/p>
+&lt;p>&lt;strong>Aufgaben&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Weiterentwicklung der internen „Enterprise Architecture Plattform“ einer Großbank&lt;/li>
+&lt;li>Beratung zu Architekturentscheidungen und Umsetzung&lt;/li>
+&lt;li>Betreuung und Einarbeitung neuer Mitarbeiter und Werksstudenten&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Technologien&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Backend: Java, Spring Boot, Maven, Liquibase, JUnit&lt;/li>
+&lt;li>Frontend: React, Javascript / Typescript, Jest, Html5&lt;/li>
+&lt;li>Sonstiges: Json, Rest, MySql, Git&lt;/li>
+&lt;li>Tools: Figma, Bitbucket, Jira, Confluence, VSCode, IntelliJ&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;!-- raw HTML omitted -->
+&lt;h3 id="zweiacht-gmbh--co-founder-cto-senior-full-stack-developer">ZweiAcht GmbH | Co-Founder, CTO, Senior Full Stack Developer&lt;/h3>
+&lt;p>
+&lt;img src="/img/ZweiAcht_logo.svg" alt="Logo ZweiAcht" class="left" style="background: white; height: 5em; margin: 1em 0;" />
+&lt;strong>Mai 2018 – September 2021&lt;/strong>&lt;/p>
+&lt;p>ZweiAcht entwickelt Praxisverwaltungssoftware für Zahnärzte als cloudbasierte
+Webanwendung.&lt;/p>
+&lt;p>&lt;strong>Aufgaben&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Anforderungsanalyse und -management im direkten Kundenkontakt&lt;/li>
+&lt;li>Architekturentscheidungen und Umsetzung in Frontend / Backend / Desktop Anbindung&lt;/li>
+&lt;li>Koordination + Erstellen von Ui/Ux Entwürfen&lt;/li>
+&lt;li>Recherche und Implementierung der Abrechnungsvorgaben&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Technologien&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Backend: Java, Spring Boot, Gradle, Liquibase, JUnit&lt;/li>
+&lt;li>Frontend: Angular, Javascript / Typescript, Jest, RxJs, NgRX, Html5, Angular Material&lt;/li>
+&lt;li>Desktop Anbindung / Companion: Electron, Golang (CGO / C )&lt;/li>
+&lt;li>Sonstiges: Kubernetes, Docker, Helm, Json, Rest, MySql, Git&lt;/li>
+&lt;li>Tools: Figma, Excel, Gitlab, Photoshop, Illustrator, Jira, Confluence, VSCode, IntelliJ&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;!-- raw HTML omitted -->
+&lt;h3 id="maxon-computer--gpu-rendering-specialist">Maxon Computer | GPU-Rendering Specialist&lt;/h3>
+&lt;p>
+&lt;img src="/img/Maxon_logo.png" alt="Logo Maxon" class="left" style="background: white; height: 5em; margin: 1em 0;" />
+&lt;strong>MÄRZ 2016 – APRIL 2018&lt;/strong>&lt;/p>
+&lt;p>Maxon Computer ist ein führender Entwickler von professionellen 3D-Modeling-, Painting-, Animations- und Rendering-Lösungen für die Kreativbranche.&lt;/p>
+&lt;p>&lt;strong>Aufgaben&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Entwicklung einer GPU basierten Rendering Engine
+&lt;ul>
+&lt;li>In Kooperation mit AMD&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Teilprojektleitung bei Integration in bestehendes Produkt
+&lt;ul>
+&lt;li>Build Prozesse + Tests&lt;/li>
+&lt;li>Planung + Aufwandsanalysen&lt;/li>
+&lt;li>Koordinaten der beteiligten Unternehmen&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Technische Unterstützung von Produktmanagement bei Priorisierung und Planung der neuen Funktionalitäten&lt;/li>
+&lt;li>Untersuchen der Umsetzbarkeit neuer wissenschaftlicher Arbeiten und Ideen&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Technologien&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>DCC: C / C++, Perforce&lt;/li>
+&lt;li>Rendering Engine: OpenCL, OpenGL, Metal, C, Python, Git&lt;/li>
+&lt;li>Tools: Jira, Confluence, Photoshop, Visual Studio&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;h2 id="education">Education&lt;/h2>
+&lt;/blockquote>
+&lt;h3 id="master-of-science">Master of Science&lt;/h3>
+&lt;p>&lt;em>Karlsruhe Institut of Technology (2012 – 2015)&lt;/em>&lt;/p>
+&lt;p>&lt;strong>Final Grade: 1,3&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Vertiefung&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Computergrafik, Parallelprogrammierung&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Thesis&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Efficient Screenspace Distribution of Irradiance Cache Records by Analyzing and Evaluating Existing Error Metrics (1,0)&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="bachelor-of-science">Bachelor of Science&lt;/h3>
+&lt;p>&lt;em>Karlsruhe Institut of Technology (2008 – 2012)&lt;/em>&lt;/p>
+&lt;p>&lt;strong>Final Grade: 1,6&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Vertiefung&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Computergrafik, Sicherheit&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Thesis&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Visibility Caching for Progressive Many-Light Algorithms&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;h2 id="publications">Publications&lt;/h2>
+&lt;/blockquote>
+&lt;h3 id="progressive-visibility-caching-for-fast-indirect-illumination">Progressive Visibility Caching for Fast Indirect Illumination&lt;/h3>
+&lt;p>&lt;strong>Proceedings of International Workshop on Vision, Modeling, and Visualization&lt;/strong>
+| (VMV 2013) | Lugano (Schweiz)&lt;/p>
+&lt;ul>
+&lt;li>Main author and presentor of the paper
+&lt;ul>
+&lt;li>Co-Authors: Jan Novak, Hauke Rehfeld, Carsten Dachsbacher&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Follow up work to bachelor thesis on visibility caching&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;h2 id="student-assistant">Student Assistant&lt;/h2>
+&lt;/blockquote>
+&lt;h3 id="karlsruhe-institut-of-technology">Karlsruhe Institut of Technology&lt;/h3>
+&lt;p>&lt;strong>September 2009 – December 2015&lt;/strong>&lt;/p>
+&lt;p>Steinbuch Centre for Computing (SCC)&lt;/p>
+&lt;blockquote>
+&lt;h2 id="misc">Misc&lt;/h2>
+&lt;/blockquote>
+&lt;p>&lt;strong>Sprachen&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Deutsch: Mother tongue&lt;/li>
+&lt;li>Englisch: Business fluent&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Hobbies&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Snowboarding&lt;/li>
+&lt;li>Electronics -&amp;gt; check Projects :)&lt;/li>
+&lt;li>Travelling&lt;/li>
+&lt;/ul></content></item></channel></rss>
