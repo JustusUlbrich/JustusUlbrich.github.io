@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hi, I'm Justus Ulbrich on Justus Ulbrich</title><link>/</link><description>Recent content in Hi, I'm Justus Ulbrich on Justus Ulbrich</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Leuchtknoten</title><link>/projects/leuchtknoten/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>/projects/leuchtknoten/</guid><description/><content/></item><item><title>Wordclock</title><link>/projects/wordclock/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>/projects/wordclock/</guid><description/><content/></item><item><title>Curriculum Vitae</title><link>/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/cv/</guid><description>Employment History IT Frankfurt GmbH | Senior Consultant, Full Stack Developer
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hi, I'm Justus Ulbrich on Justus Ulbrich</title><link>https://justusulbrich.github.io/</link><description>Recent content in Hi, I'm Justus Ulbrich on Justus Ulbrich</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://justusulbrich.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Leuchtknoten</title><link>https://justusulbrich.github.io/projects/leuchtknoten/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://justusulbrich.github.io/projects/leuchtknoten/</guid><description/><content/></item><item><title>Wordclock</title><link>https://justusulbrich.github.io/projects/wordclock/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://justusulbrich.github.io/projects/wordclock/</guid><description/><content/></item><item><title>Curriculum Vitae</title><link>https://justusulbrich.github.io/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://justusulbrich.github.io/cv/</guid><description>Employment History IT Frankfurt GmbH | Senior Consultant, Full Stack Developer
 January 2021 – September 2021
 Die IT Frankfurt GmbH bietet individuelle Softwarelösungen mit praxisorientierter Beratung
 Aufgaben
@@ -10,7 +10,7 @@ Mai 2018 – September 2021</description><content>&lt;blockquote>
 &lt;!-- raw HTML omitted -->
 &lt;h3 id="it-frankfurt-gmbh--senior-consultant-full-stack-developer">IT Frankfurt GmbH | Senior Consultant, Full Stack Developer&lt;/h3>
 &lt;p>
-&lt;img src="/img/ITF_logo.svg" alt="Logo ITF" class="left" style="background: white; height: 5em; margin: 1em 0;" />
+&lt;img src="https://justusulbrich.github.io/img/ITF_logo.svg" alt="Logo ITF" class="left" style="background: white; height: 5em; margin: 1em 0;" />
 &lt;strong>January 2021 – September 2021&lt;/strong>&lt;/p>
 &lt;p>Die IT Frankfurt GmbH bietet individuelle Softwarelösungen mit praxisorientierter Beratung&lt;/p>
 &lt;p>&lt;strong>Aufgaben&lt;/strong>&lt;/p>
@@ -30,7 +30,7 @@ Mai 2018 – September 2021</description><content>&lt;blockquote>
 &lt;!-- raw HTML omitted -->
 &lt;h3 id="zweiacht-gmbh--co-founder-cto-senior-full-stack-developer">ZweiAcht GmbH | Co-Founder, CTO, Senior Full Stack Developer&lt;/h3>
 &lt;p>
-&lt;img src="/img/ZweiAcht_logo.svg" alt="Logo ZweiAcht" class="left" style="background: white; height: 5em; margin: 1em 0;" />
+&lt;img src="https://justusulbrich.github.io/img/ZweiAcht_logo.svg" alt="Logo ZweiAcht" class="left" style="background: white; height: 5em; margin: 1em 0;" />
 &lt;strong>Mai 2018 – September 2021&lt;/strong>&lt;/p>
 &lt;p>ZweiAcht entwickelt Praxisverwaltungssoftware für Zahnärzte als cloudbasierte
 Webanwendung.&lt;/p>
@@ -53,7 +53,7 @@ Webanwendung.&lt;/p>
 &lt;!-- raw HTML omitted -->
 &lt;h3 id="maxon-computer--gpu-rendering-specialist">Maxon Computer | GPU-Rendering Specialist&lt;/h3>
 &lt;p>
-&lt;img src="/img/Maxon_logo.png" alt="Logo Maxon" class="left" style="background: white; height: 5em; margin: 1em 0;" />
+&lt;img src="https://justusulbrich.github.io/img/Maxon_logo.png" alt="Logo Maxon" class="left" style="background: white; height: 5em; margin: 1em 0;" />
 &lt;strong>MÄRZ 2016 – APRIL 2018&lt;/strong>&lt;/p>
 &lt;p>Maxon Computer ist ein führender Entwickler von professionellen 3D-Modeling-, Painting-, Animations- und Rendering-Lösungen für die Kreativbranche.&lt;/p>
 &lt;p>&lt;strong>Aufgaben&lt;/strong>&lt;/p>
