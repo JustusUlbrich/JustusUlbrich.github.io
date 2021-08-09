@@ -5,10 +5,10 @@ More Coming Soon</description><content>&lt;p>&lt;strong>Preview&lt;/strong>&lt;/
 &lt;/div>
 &lt;p>&lt;em>More Coming Soon&lt;/em>&lt;/p></content></item><item><title>Wordclock</title><link>https://justusulbrich.github.io/projects/wordclock/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://justusulbrich.github.io/projects/wordclock/</guid><description/><content/></item><item><title>Curriculum Vitae</title><link>https://justusulbrich.github.io/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://justusulbrich.github.io/cv/</guid><description>Employment History IT Frankfurt GmbH | Senior Consultant, Full Stack Developer
 January 2021 – September 2021
-Die IT Frankfurt GmbH bietet individuelle Softwarelösungen mit praxisorientierter Beratung
-Aufgaben
-Weiterentwicklung der internen „Enterprise Architecture Plattform“ einer Großbank Beratung zu Architekturentscheidungen und Umsetzung Betreuung und Einarbeitung neuer Mitarbeiter und Werksstudenten Technologien
-Backend: Java, Spring Boot, Maven, Liquibase, JUnit Frontend: React, Javascript / Typescript, Jest, Html5 Sonstiges: Json, Rest, MySql, Git Tools: Figma, Bitbucket, Jira, Confluence, VSCode, IntelliJ ZweiAcht GmbH | Co-Founder, CTO, Senior Full Stack Developer
+IT Frankfurt GmbH provides individual software solutions and practical consulting.
+Tasks and Responsibilities
+Development of an internal „Enterprise Architecture Plattform“ for a major german bank Consulting and implementation of architectural decisions Supervision and training of new employees and (student) trainees Technologies
+Backend: Java, Spring Boot, Maven, Liquibase, JUnit Frontend: React, Javascript / Typescript, Jest, Html5 Misc: Json, Rest, MySql, Git Tools: Figma, Bitbucket, Jira, Confluence, VSCode, IntelliJ ZweiAcht GmbH | Co-Founder, CTO, Senior Full Stack Developer
 Mai 2018 – September 2021</description><content>&lt;blockquote>
 &lt;h2 id="employment-history">Employment History&lt;/h2>
 &lt;/blockquote>
@@ -17,18 +17,18 @@ Mai 2018 – September 2021</description><content>&lt;blockquote>
 &lt;p>
 &lt;img src="https://justusulbrich.github.io/img/ITF_logo.svg" alt="Logo ITF" class="left" style="background: white; height: 5em; margin: 1em 0;" />
 &lt;strong>January 2021 – September 2021&lt;/strong>&lt;/p>
-&lt;p>Die IT Frankfurt GmbH bietet individuelle Softwarelösungen mit praxisorientierter Beratung&lt;/p>
-&lt;p>&lt;strong>Aufgaben&lt;/strong>&lt;/p>
+&lt;p>IT Frankfurt GmbH provides individual software solutions and practical consulting.&lt;/p>
+&lt;p>&lt;strong>Tasks and Responsibilities&lt;/strong>&lt;/p>
 &lt;ul>
-&lt;li>Weiterentwicklung der internen „Enterprise Architecture Plattform“ einer Großbank&lt;/li>
-&lt;li>Beratung zu Architekturentscheidungen und Umsetzung&lt;/li>
-&lt;li>Betreuung und Einarbeitung neuer Mitarbeiter und Werksstudenten&lt;/li>
+&lt;li>Development of an internal „Enterprise Architecture Plattform“ for a major german bank&lt;/li>
+&lt;li>Consulting and implementation of architectural decisions&lt;/li>
+&lt;li>Supervision and training of new employees and (student) trainees&lt;/li>
 &lt;/ul>
-&lt;p>&lt;strong>Technologien&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Technologies&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>Backend: Java, Spring Boot, Maven, Liquibase, JUnit&lt;/li>
 &lt;li>Frontend: React, Javascript / Typescript, Jest, Html5&lt;/li>
-&lt;li>Sonstiges: Json, Rest, MySql, Git&lt;/li>
+&lt;li>Misc: Json, Rest, MySql, Git&lt;/li>
 &lt;li>Tools: Figma, Bitbucket, Jira, Confluence, VSCode, IntelliJ&lt;/li>
 &lt;/ul>
 &lt;hr>
@@ -37,21 +37,20 @@ Mai 2018 – September 2021</description><content>&lt;blockquote>
 &lt;p>
 &lt;img src="https://justusulbrich.github.io/img/ZweiAcht_logo.svg" alt="Logo ZweiAcht" class="left" style="background: white; height: 5em; margin: 1em 0;" />
 &lt;strong>Mai 2018 – September 2021&lt;/strong>&lt;/p>
-&lt;p>ZweiAcht entwickelt Praxisverwaltungssoftware für Zahnärzte als cloudbasierte
-Webanwendung.&lt;/p>
-&lt;p>&lt;strong>Aufgaben&lt;/strong>&lt;/p>
+&lt;p>ZweiAcht develops modern cloud based practice management software for dentists.&lt;/p>
+&lt;p>&lt;strong>Tasks and Responsibilities&lt;/strong>&lt;/p>
 &lt;ul>
-&lt;li>Anforderungsanalyse und -management im direkten Kundenkontakt&lt;/li>
-&lt;li>Architekturentscheidungen und Umsetzung in Frontend / Backend / Desktop Anbindung&lt;/li>
-&lt;li>Koordination + Erstellen von Ui/Ux Entwürfen&lt;/li>
-&lt;li>Recherche und Implementierung der Abrechnungsvorgaben&lt;/li>
+&lt;li>Customer centric requirement analysis and coordination&lt;/li>
+&lt;li>Planning and implementation of fullstack application (Frontend / Backend / Desktop Client)&lt;/li>
+&lt;li>Creation of Ui / Ux designs and alignment with customers&lt;/li>
+&lt;li>Research and development of legal requirements for settlement with health insurances&lt;/li>
 &lt;/ul>
-&lt;p>&lt;strong>Technologien&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Technologies&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>Backend: Java, Spring Boot, Gradle, Liquibase, JUnit&lt;/li>
 &lt;li>Frontend: Angular, Javascript / Typescript, Jest, RxJs, NgRX, Html5, Angular Material&lt;/li>
-&lt;li>Desktop Anbindung / Companion: Electron, Golang (CGO / C )&lt;/li>
-&lt;li>Sonstiges: Kubernetes, Docker, Helm, Json, Rest, MySql, Git&lt;/li>
+&lt;li>Desktop Client / Companion: Electron, Golang (CGO / C )&lt;/li>
+&lt;li>Misc: Kubernetes, Docker, Helm, Json, Rest, MySql, Git&lt;/li>
 &lt;li>Tools: Figma, Excel, Gitlab, Photoshop, Illustrator, Jira, Confluence, VSCode, IntelliJ&lt;/li>
 &lt;/ul>
 &lt;hr>
@@ -60,25 +59,30 @@ Webanwendung.&lt;/p>
 &lt;p>
 &lt;img src="https://justusulbrich.github.io/img/Maxon_logo.png" alt="Logo Maxon" class="left" style="background: white; height: 5em; margin: 1em 0;" />
 &lt;strong>MÄRZ 2016 – APRIL 2018&lt;/strong>&lt;/p>
-&lt;p>Maxon Computer ist ein führender Entwickler von professionellen 3D-Modeling-, Painting-, Animations- und Rendering-Lösungen für die Kreativbranche.&lt;/p>
-&lt;p>&lt;strong>Aufgaben&lt;/strong>&lt;/p>
+&lt;p>Maxon Computer is a leading developer of 3D software for the creative industries, best known for its flagship 3D modeling, painting, rendering, and animation software, Cinema 4D.&lt;/p>
+&lt;p>&lt;strong>Tasks and Responsibilities&lt;/strong>&lt;/p>
 &lt;ul>
-&lt;li>Entwicklung einer GPU basierten Rendering Engine
+&lt;li>Development of a physically-based GPU rendering engine (Radeon ProRender)
 &lt;ul>
-&lt;li>In Kooperation mit AMD&lt;/li>
+&lt;li>In Cooperation with AMD and Apple&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>Teilprojektleitung bei Integration in bestehendes Produkt
+&lt;li>Partial project lead for the integration in Cinema 4D
 &lt;ul>
-&lt;li>Build Prozesse + Tests&lt;/li>
-&lt;li>Planung + Aufwandsanalysen&lt;/li>
-&lt;li>Koordinaten der beteiligten Unternehmen&lt;/li>
+&lt;li>Setup build processes and tests&lt;/li>
+&lt;li>Architecural planning, requirement analysis and cost estimation&lt;/li>
+&lt;li>Coordination between companies&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>Technische Unterstützung von Produktmanagement bei Priorisierung und Planung der neuen Funktionalitäten&lt;/li>
-&lt;li>Untersuchen der Umsetzbarkeit neuer wissenschaftlicher Arbeiten und Ideen&lt;/li>
+&lt;li>Technical support for product management
+&lt;ul>
+&lt;li>prioritization of upcoming releases&lt;/li>
+&lt;li>planning of new features&lt;/li>
 &lt;/ul>
-&lt;p>&lt;strong>Technologien&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>Examine the feasibility of new research work and ideas&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Technologies&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>DCC: C / C++, Perforce&lt;/li>
 &lt;li>Rendering Engine: OpenCL, OpenGL, Metal, C, Python, Git&lt;/li>
@@ -90,9 +94,10 @@ Webanwendung.&lt;/p>
 &lt;h3 id="master-of-science">Master of Science&lt;/h3>
 &lt;p>&lt;em>Karlsruhe Institut of Technology (2012 – 2015)&lt;/em>&lt;/p>
 &lt;p>&lt;strong>Final Grade: 1,3&lt;/strong>&lt;/p>
-&lt;p>&lt;strong>Vertiefung&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Specialization&lt;/strong>&lt;/p>
 &lt;ul>
-&lt;li>Computergrafik, Parallelprogrammierung&lt;/li>
+&lt;li>Computer Graphics&lt;/li>
+&lt;li>Parallel Programming&lt;/li>
 &lt;/ul>
 &lt;p>&lt;strong>Thesis&lt;/strong>&lt;/p>
 &lt;ul>
@@ -102,9 +107,10 @@ Webanwendung.&lt;/p>
 &lt;h3 id="bachelor-of-science">Bachelor of Science&lt;/h3>
 &lt;p>&lt;em>Karlsruhe Institut of Technology (2008 – 2012)&lt;/em>&lt;/p>
 &lt;p>&lt;strong>Final Grade: 1,6&lt;/strong>&lt;/p>
-&lt;p>&lt;strong>Vertiefung&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Specialization&lt;/strong>&lt;/p>
 &lt;ul>
-&lt;li>Computergrafik, Sicherheit&lt;/li>
+&lt;li>Computer Graphics&lt;/li>
+&lt;li>Cryptography and Security&lt;/li>
 &lt;/ul>
 &lt;p>&lt;strong>Thesis&lt;/strong>&lt;/p>
 &lt;ul>
@@ -135,8 +141,8 @@ Webanwendung.&lt;/p>
 &lt;/blockquote>
 &lt;p>&lt;strong>Sprachen&lt;/strong>&lt;/p>
 &lt;ul>
-&lt;li>Deutsch: Mother tongue&lt;/li>
-&lt;li>Englisch: Business fluent&lt;/li>
+&lt;li>German: Mother tongue&lt;/li>
+&lt;li>English: Business fluent&lt;/li>
 &lt;/ul>
 &lt;p>&lt;strong>Hobbies&lt;/strong>&lt;/p>
 &lt;ul>
